@@ -1,0 +1,26 @@
+{
+	"hud_starting_heist" : "Lookin' peng",
+	"hud_int_disable_alarm_pager" : "Answerin' the mandem",
+	"hud_int_pick_lock" : "You wanna break in?",
+	"hud_int_equipment_drill" : "Put down da drill",
+
+	"prop_timer_gui_malfunction" : "BUGGERED",
+	"prop_timer_gui_error" : "FOOKED",
+
+	"hud_deploying_equipment" : "Slappin' ur equipment down",
+	"hud_deploy_valid_help" : "Wrong place you muppet",
+	"debug_interact_ammo_bag_take_ammo" : "Hold $BTN_INTERACT to get more mags",
+	"debug_interact_doctor_bag_heal" : "Hold $BTN_INTERACT to heal yo self",
+	"debug_interact_bodybags_bag_take_bodybag" : "Hold $BTN_INTERACT to grab a bag",
+
+	"hint_cant_stand_up" : "You're too tall for this blud",
+	"hint_damage_pad" : "You're bleedin' - don't bloody die on me",
+	"hud_hint_mask_block_interact" : "Wagwan bruv, get your mask on",
+	"hint_full_health" : "Stop claimin' your NHS benefits ye broke fook",
+	"hint_full_ammo" : "Your mag's already full ye muppet",
+	"hint_full_bodybags" : "Go kill more mandem",
+
+	"hud_suspicion_detected" : "Absolute shambles",
+	"hud_assault_point_no_return_in" : "This was a cock-up",
+	"hud_instruct_mask_on" : "Ye gotta put ye mask on yet mate"
+}

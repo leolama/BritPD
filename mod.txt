@@ -1,0 +1,15 @@
+{
+	"name" : "A Brit Plays Payday",
+	"description" : "Changes the names of different strings in-game to be more British-esque (difficulty names, heist names, etc.)",
+	"author" : "leolama",
+	"contact" : "Discord: leolama#2190",
+	"color" : "0 0 0",
+	"version" : "4",
+	"blt_version" : 2,
+	"hooks" : [
+        {
+			"hook_id" : "lib/managers/localizationmanager",
+            "script_path" : "menu/menumanager.lua"
+        }
+    ]
+}
