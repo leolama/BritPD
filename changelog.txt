@@ -1,0 +1,12 @@
+Ver. 1 (5th Feb, 2020)
+-Initial release
+
+Ver. 2 (6th Feb, 2020)
+-Added more variety of words
+-Added a few more string changes
+
+Ver. 3 (13th Feb, 2020)
+-Added two toggle buttons in the "Mod Options" menu that allows you to turn in-game and menu changes on/off
+
+Ver. 4 (13th Feb, 2020)
+-Added self-updating (I think?)
