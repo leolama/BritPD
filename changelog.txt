@@ -1,15 +1,18 @@
-Ver. 1 (5th Feb, 2020)
+Ver. 0.1 (5th Feb, 2020)
 -Initial release
 
-Ver. 2 (6th Feb, 2020)
+Ver. 0.2 (6th Feb, 2020)
 -Added more variety of words
 -Added a few more string changes
 
-Ver. 3 (13th Feb, 2020)
+Ver. 0.3 (13th Feb, 2020)
 -Added two toggle buttons in the "Mod Options" menu that allows you to turn in-game and menu changes on/off
 
-Ver. 4 (13th Feb, 2020)
+Ver. 0.4 (13th Feb, 2020)
 -Added self-updating (I think?)
 
-Ver. 4.1 (14th Feb, 2020)
--Unbroke it
+Ver. 0.4.1 (14th Feb, 2020)
+-Unbroke it (I'm good at modding)
+
+Ver. 0.4.2 (14th Feb, 2020)
+-Unbroke it, yet again (I'm seriously good at this)

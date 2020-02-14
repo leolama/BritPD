@@ -1,7 +1,7 @@
 [
     {
         "ident" : "BritPD",
-        "hash" : "19418cf614fc361bd72f0374d4ac430d6a6935da586eccab67f412ad6a0c699e",
+        "hash" : "bdd7a02f0a4cbdcac724d04c72add04e9c85e302de6d60f1d4e9225da533db20",
         "patchnotes_url" : "https://github.com/leolama/BritPD/raw/master/changelog.txt",
         "download_url" : "https://github.com/leolama/BritPD/raw/master/BritPD.zip"
     }
