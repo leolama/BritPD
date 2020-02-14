@@ -10,3 +10,6 @@ Ver. 3 (13th Feb, 2020)
 
 Ver. 4 (13th Feb, 2020)
 -Added self-updating (I think?)
+
+Ver. 4.1 (14th Feb, 2020)
+-Unbroke it
