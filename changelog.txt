@@ -16,3 +16,6 @@ Ver. 0.4.1 (14th Feb, 2020)
 
 Ver. 0.4.2 (14th Feb, 2020)
 -Unbroke it, yet again (I'm seriously good at this)
+
+Ver 0.5 (15th Feb, 2020)
+-Added more menu changes
