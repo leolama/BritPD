@@ -5,3 +5,4 @@ A modification for Payday 2
 
 **Requirements**
 * SuperBLT
+* Some sort of brain to use the mods folde
