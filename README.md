@@ -7,4 +7,4 @@ A modification for Payday 2
 * SuperBLT
 * Some sort of brain to use the mods folder
 
-[Changelog](../master/changelog.html)
+[Changelog](https://leolama.github.io/BritPD/changelog.html)
