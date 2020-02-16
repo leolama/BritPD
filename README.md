@@ -1,2 +1,5 @@
 # BritPD
-Modification for Payday 2
+A modification for Payday 2
+
+**Requirements
+* SuperBLT
