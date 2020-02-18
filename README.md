@@ -1,8 +1,6 @@
 # BritPD
 A modification for Payday 2
 
-&nbsp;
-
 [Changelog](https://leolama.github.io/BritPD/changelog.html)
 
 &nbsp;
