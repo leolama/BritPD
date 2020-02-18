@@ -3,8 +3,10 @@ A modification for Payday 2
 
 &nbsp;
 
+[Changelog](https://leolama.github.io/BritPD/changelog.html)
+
+&nbsp;
+
 **Requirements**
 * SuperBLT
 * Some sort of brain to use the mods folder
-
-[Changelog](https://leolama.github.io/BritPD/changelog.html)
