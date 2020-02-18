@@ -1,0 +1,56 @@
+{
+	"menu_visit_forum3" : "Press any key to continue bruv",
+	"menu_or_press_any_xbox_button" : "Press any button to continue bruv",
+
+	"menu_crimenet" : "crime.co.uk",
+	"menu_crimenet_help" : "Start crime.co.uk",
+
+	"menu_crimenet_offline" : "crime.co.uk offline",
+	"menu_crimenet_offline_help" : "Start crime.co.uk in offline mode.",
+
+	"menu_inventory" : "Your stash",
+	"menu_inventory_help" : "Check what you're holdin'.",
+
+	"menu_steam_inventory_help" : "Check what you're holdin' on Steam.",
+
+	"menu_visit_fbi_files" : "MI5 Files",
+	"menu_visit_fbi_files_help" : "Hack into the MI5.",
+
+	"menu_movie_theater" : "Cinema",
+	"menu_movie_theater_help" : "Open the cinema.",
+
+	"menu_options" : "Settings",
+	"menu_options_help" : "Check what settin's you got.",
+
+	"menu_credits_help" : "Check the creds.",
+
+	"menu_quit_help" : "Get out you wanker.",
+
+	"menu_difficulty_normal" : "Easy peasy",
+	"menu_difficulty_hard" : "'ave a kip",
+	"menu_difficulty_very_hard" : "It's ez fam",
+	"menu_difficulty_overkill" : "Not bad",
+	"menu_difficulty_easy_wish" : "Tad hard",
+	"menu_difficulty_apocalypse" : "Pretty difficult blud",
+	"menu_difficulty_sm_wish" : "Bugger that",
+
+	"heist_branchbank_cash" : "Bank Heist (Money)",
+	"heist_jewelry_store" : "Jewellery Shop",
+	"heist_family" : "Diamond Shop",
+	"heist_framing_frame" : "Framin' Frame",
+	"heist_four_stores" : "Four Shops",
+
+	"menu_deck14_3_desc" : "Members of your squad also gains the effect of your Hysteria Stacks.$NL;$NL;Hysteria Stacks from multiple squad members do not stack and only the stacks that gives the highest damage absorption will have an effect.",
+
+	"savefile_saving" : "Savin' yer bloody game",
+	"savefile_loading" : "Loadin' yer bloody game",
+	"dialog_warning_title" : "Got a problem 'ere mate",
+	"dialog_no" : "Nah mate",
+	"dialog_yes" : "Sounds good",
+
+	"bm_menu_empty_weapon_slot_buy_info" : "Buy a banger of a gun",
+	"menu_cn_chill_combat_ignore_defend" : "Let the squad handle it",
+	"menu_crew_management_help" : "Manage your AI Squad's Characters and Loadouts",
+	"menu_crew_management" : "Squad management",
+	"menu_team_loadout" : "Squad setup"
+}
