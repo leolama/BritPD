@@ -1,10 +1,11 @@
 # BritPD
 A modification for Payday 2
 
-[Changelog](https://leolama.github.io/BritPD/changelog.html)
+[Full changelog](https://leolama.github.io/BritPD/full_changelog.html)
 
 &nbsp;
 
 **Requirements**
+* Payday 2
 * SuperBLT
 * Some sort of brain to use the mods folder
