@@ -1,0 +1,23 @@
+{
+  "menu_deck1_3_desc": "You and your crew's stamina is increased by ##50%##.$NL;$NL;Increases your shout distance by ##25%##.$NL;$NL;When you are within medium range of an enemy, you receive ##6%## less damage from enemies.$NL;Note: squad perks do not stack.",
+  "menu_deck1_5_desc": "Your squad will gain ##10%## more health.$NL;$NL;You will gain ##20%## more health.$NL;$NL;Note: squad perks do not stack.",
+  "menu_deck1_7_desc": "You gain ##10%## more armor and your squad gains an additional ##5%## more armor.$NL;$NL;Note: squad perks do not stack.",
+  "menu_deck1_9_desc": "You and your squad will gain ##6%## max health and ##12%## stamina for each hostage up to ##4## times.$NL;$NL;You and your squad will gain ##8%## damage reduction for having one or more hostages.$NL;$NL;Note: squad perks do not stack.$NL;$NL;Deck Completion Bonus: Your chance of getting a higher quality item during a Payday is increased by ##10%##.",
+  "menu_deck2_3_desc": "You are ##15%## more likely to be targeted when you are close to your squad members.$NL;$NL;You gain ##10%## more health.",
+  "menu_deck3_9_desc": "You gain an additional ##5%## more armor.$NL;$NL;Reduces the armor recovery time for you and your squad by ##10%##.$NL;$NL;Note: squad perks do not stack.$NL;$NL;Deck Completion Bonus: Your chance of getting a higher quality item during a Payday is increased by ##10%##.",
+  "menu_deck4_3_desc": "You are ##15%## less likely to be targeted when you are close to your squad members.",
+  "menu_deck10_5_desc": "When you get healed from picking up ammo packs, your squad also gets healed for ##50%## of the amount.$NL;$NL;You gain ##20%## more health.",
+  "menu_deck13_1_desc": "While your armor is up, you will store ##4## health for every ##1## enemy you or your squad kills.$NL;$NL;When your armor has been completely depleted and then starts to regenerate, you will gain health equal to the stored health amount.$NL;$NL;Maximum amount of stored health depends on your equipped armor.",
+  "menu_deck14_3_desc": "Members of your squad also gains the effect of your Hysteria Stacks.$NL;$NL;Hysteria Stacks from multiple squad members do not stack and only the stacks that gives the highest damage absorption will have an effect.",
+  "menu_deck14_7_desc": "Change the damage absorption of your Hysteria Stacks on you and your squad to ##1## damage absorption for every ##25## stacks of Hysteria.",
+  "menu_deck16_1_desc": "Every time you or your squad performs a kill you will gain ##5## health and ##5## armor. This cannot occur more than ##4## times every ##4## seconds.",
+
+  "menu_combat_medic_beta_desc": "BASIC: ##$basic;##$NL;You gain a ##30%## damage reduction for ##5## seconds both after and during reviving another player.$NL;$NL;ACE: ##$pro;##$NL;Reviving a squad member gives them ##30%## more health.",
+  "menu_tea_time_beta_desc": "BASIC: ##$basic;##$NL;Decreases your First Aid Kit and Doctor Bag deploy time by ##50%##.$NL;$NL;ACE: ##$pro;##$NL;squad members that use your First Aid Kits or Doctor Bags take ##10%## less damage for ##120## seconds.",
+  "menu_fast_learner_beta_desc": "BASIC: ##$basic;##$NL;squad members you revive take ##30%## less damage for ##5## seconds.$NL;$NL;ACE: ##$pro;##$NL;The damage reduction is increased by an additional ##50%##.",
+  "menu_inspire_beta_desc": "BASIC: ##$basic;##$NL;You revive squad members ##100%## faster. Shouting at your squad will increase their movement and reload speed by ##20%## for ##10## seconds.$NL;$NL;ACE: ##$pro;##$NL;There is a ##100%## chance that you can revive squad members at a distance of up to ##9## meters by shouting at them. This cannot occur more than once every ##20## seconds.",
+  "menu_triathlete_beta_desc": "BASIC: ##$basic;##$NL;Increases your supply of cable ties by ##4##. You can cable tie hostages ##75%## faster. $NL;$NL;ACE: ##$pro;##$NL;You and your squad gain ##0.5## damage absorption for each hostage you have. This effect stacks with up to a maximum of ##8## hostages.$NL;$NL;Note: This skill does not stack with other players Forced Friendship skill.",
+  "menu_iron_man_beta_desc": "BASIC: ##$basic;##$NL;Increases the armor recovery rate for you and your squad by ##25%##.$NL;$NL;ACE: ##$pro;##$NL;Enables your weapons to have a chance to knock back Shield enemies when attacking them. Ranged weapons' knock back chance is increased the higher the total damage of the weapon is. Melee weapons' knock back chance is ##100%##.",
+  "menu_second_chances_beta_desc": "BASIC: ##$basic;##$NL;You gain the ability to disable ##1## camera from detecting you and your squad. Effect lasts for ##25## seconds.$NL;$NL;ACE: ##$pro;##$NL;You lockpick ##100%## faster. You also gain the ability to lockpick safes."
+
+}

@@ -1,0 +1,38 @@
+{
+  "menu_visit_forum3": "Press any key to call your butler",
+  "menu_or_press_any_xbox_button": "Press any button to call your butler",
+
+  "menu_crimenet": "crime.co.uk",
+  "menu_crimenet_help": "Start crime.co.uk.",
+
+  "menu_crimenet_offline": "crime.co.uk offline",
+  "menu_crimenet_offline_help": "Start crime.co.uk in offline mode.",
+
+  "menu_player_inventory": "Your vault",
+  "menu_player_inventory_help": "Check your vault.",
+
+  "menu_steam_inventory": "Steam vault",
+  "menu_steam_inventory_help": "Check your vault on Steam.",
+
+  "menu_visit_fbi_files": "MI5 Files",
+  "menu_visit_fbi_files_help": "Hack into the MI5.",
+
+  "menu_movie_theater": "Private Theatre",
+  "menu_movie_theater_help": "Open your private theatre.",
+
+  "menu_options": "Settings",
+  "menu_options_help": "Check what your settings are.",
+
+  "menu_credits": "The people you hire",
+  "menu_credits_help": "Check who you hired for this.",
+
+  "menu_quit_help": "Leave this peasentry",
+
+  "menu_difficulty_normal": "Absolutely thrilling",
+  "menu_difficulty_hard": "Gentle stroll",
+  "menu_difficulty_very_hard": "Quite difficult",
+  "menu_difficulty_overkill": "Absolutely thrilling",
+  "menu_difficulty_easy_wish": "Tad hard",
+  "menu_difficulty_apocalypse": "Bloody difficult",
+  "menu_difficulty_sm_wish": "This appears to be quite a difficult heist, sir",
+}

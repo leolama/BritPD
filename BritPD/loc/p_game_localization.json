@@ -1,0 +1,24 @@
+{
+	"hud_starting_heist" : "Straightening your tie",
+	"hud_int_disable_alarm_pager" : "Hold $BTN_INTERACT to answer the call",
+	"hud_int_pick_lock" : "Hold $BTN_INTERACT to open the door",
+	"hud_int_equipment_drill" : "Hold $BTN_INTERACT to place the drill down",
+
+	"prop_timer_gui_malfunction" : "Call the butler",
+	"prop_timer_gui_error" : "Broken",
+
+	"hud_deploying_equipment" : "Putting your equipment down",
+	"hud_deploy_valid_help" : "You are not able to place that here, sir",
+	"debug_interact_ammo_bag_take_ammo" : "Hold $BTN_INTERACT to acquire more ammunition",
+	"debug_interact_doctor_bag_heal" : "Hold $BTN_INTERACT to get a private medic",
+	"debug_interact_bodybags_bag_take_bodybag" : "Hold $BTN_INTERACT to acquire a bag",
+
+	"hint_cant_stand_up" : "Watch your head, my lord",
+	"hint_damage_pad" : "You've taken a bit of damage - don't ruin your tailored suit",
+	"hud_hint_mask_off_block_interact" : "Your tie isn't straight yet",
+	"hint_full_bodybags" : "You are unable to carry more bags, sir",
+
+	"hud_suspicion_detected" : "You've been spotted, sir",
+	"hud_assault_point_no_return_in" : "Absolute shambles",
+	"hud_instruct_mask_on" : "Hello there, my lord. You're right on time for the heist."
+}

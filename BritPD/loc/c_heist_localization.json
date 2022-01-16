@@ -1,0 +1,25 @@
+{
+  "heist_branchbank_cash" : "Bank Heist (Money)",
+  "heist_branchbank_cash_1" : "Bank Heist (Money)",
+
+  "heist_jewelry_store" : "Jewellery Shop",
+  "heist_jewelry_store_hl" : "Jewelry Store",
+
+  "heist_family" : "Diamond Shop",
+  "heist_family_h1" : "Diamond Shop",
+
+  "heist_framing_frame" : "Framin' Frame",
+  "heist_framing_frame_h1" : "Framin' Frame",
+
+  "heist_four_stores" : "Four Shops",
+  "heist_four_stores_h1" : "Four Shops",
+
+  "heist_vit" : "Buckingham Palace",
+  "heist_vit_h1" : "Buckingham Palace",
+
+  "heist_red2" : "Bank of England",
+  "heist_red2_h1" : "Bank of England",
+
+  "heist_wwh" : "Scottish Deal",
+  "heist_wwh_h1" : "Scottish Deal"
+}

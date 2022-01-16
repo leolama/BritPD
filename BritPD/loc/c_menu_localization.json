@@ -1,0 +1,57 @@
+{
+  "menu_visit_forum3": "Press any key to continue bruv",
+  "menu_or_press_any_xbox_button": "Press any button to continue bruv",
+
+  "menu_crimenet": "crime.co.uk",
+  "menu_crimenet_help": "Start crime.co.uk",
+
+  "menu_crimenet_offline": "crime.co.uk offline",
+  "menu_crimenet_offline_help": "Start crime.co.uk in offline mode.",
+
+  "menu_player_inventory": "Your stash",
+  "menu_player_inventory_help": "Check what you're holdin'.",
+
+  "menu_steam_inventory": "Steam stash",
+  "menu_steam_inventory_help": "Check what you're holdin' on Steam.",
+
+  "menu_visit_fbi_files": "MI5 Files",
+  "menu_visit_fbi_files_help": "Hack into the MI5.",
+
+  "menu_movie_theater": "Cinema",
+  "menu_movie_theater_help": "Open the cinema.",
+
+  "menu_options": "Settin's",
+  "menu_options_help": "Check what settin's you got.",
+
+  "menu_credits": "The creds",
+  "menu_credits_help": "Check the creds.",
+
+  "menu_quit_help": "Get out you wanker.",
+
+  "menu_difficulty_normal": "Easy peasy",
+  "menu_difficulty_hard": "'ave a kip",
+  "menu_difficulty_very_hard": "It's ez fam",
+  "menu_difficulty_overkill": "Not bad",
+  "menu_difficulty_easy_wish": "Tad hard",
+  "menu_difficulty_apocalypse": "Pretty difficult blud",
+  "menu_difficulty_sm_wish": "Bugger that",
+
+  "savefile_saving": "Savin' yer bloody game",
+  "savefile_loading": "Loadin' yer bloody game",
+  "dialog_warning_title": "Got a problem 'ere mate",
+  "dialog_no": "Nah mate",
+  "dialog_yes": "Sounds good",
+
+  "bm_menu_empty_weapon_slot_buy_info": "Buy a banger of a gun",
+  "menu_asset_grenade_crate_desc": "Buy frag grenades to share with your squad",
+  "menu_asset_bodybags_bag_desc": "Buy body bags to share with your squad",
+  "menu_pp_asset_spotter_desc": "The Spotter will highlight guards and special enemies for you and your squad.",
+
+  "menu_cn_chill_combat_ignore_defend": "Let the squad handle it",
+  "menu_crew_management_help": "Manage your AI Squad's Characters and Loadouts",
+  "menu_crew_management": "Squad management",
+  "menu_team_loadout": "Squad setup",
+  "dialog_crew_loadout_help_text": "The AI Squad will fill the empty player slots in your own lobby as soon as you start the game. By specifying their loadouts in the squad Management you can decide which weapons, abilities and boosts they have. New players that join your game will replace the AI Squad in a bottom up order, starting with loadout number 3.$NL;$NL;Characters will be assigned to the AI Squad according to the selected Character Priority if available.",
+  "menu_crew_character_order": "AI SQUAD CHARACTER PRIORITY",
+  "dialog_squad_loadout_help_title": "AI Squad Information"
+}

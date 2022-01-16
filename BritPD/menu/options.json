@@ -1,0 +1,80 @@
+{
+	"menu_id" : "BritPD_options",
+	"parent_menu_id" : "blt_options",
+	"title" : "BritPD_options_title",
+	"description" : "BritPD_options_desc",
+	"items" : [
+		{
+			"type" : "button",
+			"id" : "BritPD_options_menu_header",
+			"title" : "BritPD_options_menu_title",
+			"description" : "",
+			"callback" : "callback_BritPD_nothing"
+		},
+		{
+				"type" : "divider",
+				"size" : 5
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "BritPDtype_choice",
+			"title" : "BritPDtype_title",
+			"description" : "BritPDtype_desc",
+			"callback" : "callback_BritPDtype_choice",
+			"items" : [
+				"BritPD_chav",
+				"BritPD_posh"
+			],
+			"value" : "optiontype"
+		},
+		{
+				"type" : "divider",
+				"size" : 20
+		},
+
+		{
+			"type" : "toggle",
+			"id" : "BritPDmenu_toggle",
+			"title" : "BritPDmenu_toggle_title",
+			"description" : "BritPDmenu_toggle_desc",
+			"callback" : "callback_BritPDmenu_toggle_option",
+			"value" : "optionmenu_on"
+		},
+		{
+				"type" : "divider",
+				"size" : 5
+		},
+		{
+			"type" : "toggle",
+			"id" : "BritPDgame_toggle",
+			"title" : "BritPDgame_toggle_title",
+			"description" : "BritPDgame_toggle_desc",
+			"callback" : "callback_BritPDgame_toggle_option",
+			"value" : "optiongame_on"
+		},
+		{
+				"type" : "divider",
+				"size" : 5
+		},
+		{
+			"type" : "toggle",
+			"id" : "BritPDheist_toggle",
+			"title" : "BritPDheist_toggle_title",
+			"description" : "BritPDheist_toggle_desc",
+			"callback" : "callback_BritPDheist_toggle_option",
+			"value" : "optionheist_on"
+		},
+		{
+			"type" : "divider",
+			"size" : 5
+		},
+		{
+			"type" : "toggle",
+			"id" : "BritPDskill_toggle",
+			"title" : "BritPDskill_toggle_title",
+			"description" : "BritPDskill_toggle_desc",
+			"callback" : "callback_BritPDskill_toggle_option",
+			"value" : "optionskill_on"
+		}
+	]
+}
